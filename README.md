@@ -10,4 +10,4 @@
 * In terminal login as root using previous password.
 * enter:  `cd; curl -LO https://mrchromebox.tech/firmware-util.sh && sudo bash firmware-util.sh`
 * choose: `Install/Update Custom coreboot Firmware (Full ROM)`
-Install Gnu/Linux :)
+* Install Gnu/Linux :) (**do not** runubiquity with -b flag)
